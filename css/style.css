@@ -322,7 +322,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .block2__item__secondpart__content__moreinfo__button {
   width: 1.5vw;
-  background: url("/Images/arrow.png") center no-repeat, #3098f3;
+  background: url("../Images/arrow.png") center no-repeat, #3098f3;
   background-size: 0.7vw 0.7vw;
   border-radius: 50%;
 }
@@ -438,7 +438,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .block3__item__content__textpart__moreinfo__button {
   width: 1.5vw;
-  background: url("/Images/arrow.png") center no-repeat, #3098f3;
+  background: url("../Images/arrow.png") center no-repeat, #3098f3;
   background-size: 0.7vw 0.7vw;
   border-radius: 50%;
 }
@@ -593,7 +593,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .block4__content1__moreinfo__button {
   width: 40px;
-  background: url("/Images/arrow.png") center no-repeat, #3098f3;
+  background: url("../Images/arrow.png") center no-repeat, #3098f3;
   background-size: 20px 20px;
   border-radius: 50%;
 }
